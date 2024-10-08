@@ -548,6 +548,7 @@ MonoBehaviour:
   hasPowerup: 0
   powerupIndicator: {fileID: 1427939658}
   powerUpDuration: 5
+  boostSmoke: {fileID: 4392870381175910774, guid: 6562db3a873684fa9b7da3aef8329d82, type: 3}
 --- !u!1 &680832294
 GameObject:
   m_ObjectHideFlags: 0
